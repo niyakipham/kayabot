@@ -1,0 +1,2 @@
+# kayabot
+KAYABOT - BOT DISCORD WELCOME &amp; GOODBYE 
