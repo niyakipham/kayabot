@@ -1,0 +1,12 @@
+{
+    "TOKEN": "",
+    "PREFIX": "!",
+    "MESSAGE_XP_MIN": 5,
+    "MESSAGE_XP_MAX": 15,
+    "VOICE_XP_MIN": 25,
+    "VOICE_XP_MAX": 50,
+    "MESSAGE_COOLDOWN": 1,
+    "VOICE_COOLDOWN": 1 
+  }
+
+
